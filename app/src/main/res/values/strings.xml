@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SpinnerTugas</string>
+    <string-array name="daftar_kota">
+        <item>Jakarta</item>
+        <item>Bandung</item>
+        <item>Semarang</item>
+        <item>Depok</item>
+    </string-array>
+</resources>
